@@ -2,11 +2,17 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="CharacterPanel" preserve="all" />
     <type fullname="CharacterSkillScript" preserve="all" />
+    <type fullname="EquipmentScript" preserve="all" />
     <type fullname="FeatPanelScript" preserve="all" />
     <type fullname="InventoryScript" preserve="all" />
     <type fullname="ItemScript" preserve="all" />
     <type fullname="UserInputFeatChoiceScript" preserve="all" />
     <type fullname="UserInputFeatScript" preserve="all" />
+    <type fullname="WeaponScript" preserve="all" />
+    <type fullname="DamageType" preserve="nothing" serialized="true" />
+    <type fullname="Weapon" preserve="nothing" serialized="true" />
+    <type fullname="WeaponCategory" preserve="nothing" serialized="true" />
+    <type fullname="WeaponType" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
