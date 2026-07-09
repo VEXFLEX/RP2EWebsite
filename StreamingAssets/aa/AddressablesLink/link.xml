@@ -7,11 +7,19 @@
     <type fullname="InventoryScript" preserve="all" />
     <type fullname="ItemScript" preserve="all" />
     <type fullname="LevelUpClassFeature" preserve="all" />
+    <type fullname="SpellKnownScript" preserve="all" />
     <type fullname="UserInputFeatChoiceScript" preserve="all" />
     <type fullname="UserInputFeatScript" preserve="all" />
     <type fullname="WeaponScript" preserve="all" />
     <type fullname="AbilityType" preserve="nothing" serialized="true" />
+    <type fullname="AreaOfEffect" preserve="nothing" serialized="true" />
+    <type fullname="AttackRoll" preserve="nothing" serialized="true" />
     <type fullname="DamageType" preserve="nothing" serialized="true" />
+    <type fullname="RadiusType" preserve="nothing" serialized="true" />
+    <type fullname="Spell" preserve="nothing" serialized="true" />
+    <type fullname="SpellTarget" preserve="nothing" serialized="true" />
+    <type fullname="TargetType" preserve="nothing" serialized="true" />
+    <type fullname="ToHitType" preserve="nothing" serialized="true" />
     <type fullname="Weapon" preserve="nothing" serialized="true" />
     <type fullname="WeaponCategory" preserve="nothing" serialized="true" />
     <type fullname="WeaponType" preserve="nothing" serialized="true" />
