@@ -7,6 +7,7 @@
     <type fullname="InventoryScript" preserve="all" />
     <type fullname="ItemScript" preserve="all" />
     <type fullname="LevelUpClassFeature" preserve="all" />
+    <type fullname="MouseTextBoxScript" preserve="all" />
     <type fullname="SpellKnownScript" preserve="all" />
     <type fullname="UserInputFeatChoiceScript" preserve="all" />
     <type fullname="UserInputFeatScript" preserve="all" />
